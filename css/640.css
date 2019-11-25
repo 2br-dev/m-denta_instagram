@@ -1,0 +1,170 @@
+@media screen and (max-width: 641px) {
+  body {
+    font-size: 18px;
+  }
+  video {
+    width: 100%;
+    height: 100%;
+  }
+  .workresults-container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .workresults-desc {
+    text-align: center;
+    width: 100%;
+  }
+  .workresults-before {
+    position: unset;
+  }
+  .workresults-container {
+    height: fit-content;
+    margin-bottom: 20px;
+  }
+  .workresults-image {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-bottom: 20px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  .workresults-before,
+  .workresults-after {
+    width: 250px;
+    height: 250px;
+  }
+  .hamburger-slide {
+    height: fit-content;
+  }
+  .hamburger-adress {
+    display: none !important;
+  }
+  .hamburger-slide-container {
+    height: fit-content;
+  }
+  .hamburger-slide a {
+    width: 100%;
+  }
+  .main-content.content-appreciate-advantages {
+    width: 100%;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .main-content.content-appreciate-advantages-item {
+    font-size: 22px;
+    text-align: center;
+    width: 75%;
+    margin: 20px auto 0;
+  }
+  .main-content.content-jumbotron {
+    height: 380px;
+  }
+  .main-content.content-appreciate-advantages-item-top {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  .main-content.content-input {
+    padding-top: 20px;
+  }
+  .main-content.content-doctors {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+  }
+  .main-content.content-doctors-item {
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+  }
+  .main-content.content-appreciate-header {
+    display: none;
+  }
+  .main-content.content-doctors-item img {
+    width: 100%;
+  }
+  .main-content.content-chief-text {
+    padding-left: 30px;
+  }
+  .main-content.content-gallery {
+    margin-top: 60px;
+    width: 90%;
+  }
+  .footer {
+    padding-bottom: 0;
+    width: 100%;
+  }
+  .footer-text {
+    display: none;
+  }
+  .fotogalereya .container-gallery a,
+  .fotogalereya .container-docs a {
+    left: 20px;
+    right: 20px;
+  }
+  .about-team .half-width-column {
+    width: 90%;
+  }
+  .btn {
+    margin-bottom: 10px;
+  }
+  .container-flex-2 img {
+    width: 100%;
+  }
+  .half-width,
+  .half-width-inline,
+  .half-width-column {
+    width: 100%;
+  }
+  .half-width p {
+    height: 110px;
+    text-align: left;
+  }
+  .container-flex-pl13 {
+    width: 96%;
+  }
+  .centre {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  table {
+    font-size: 18px;
+    text-align: left;
+  }
+  .black-centre-24 {
+    font-size: 32px;
+    margin: 30px auto;
+  }
+  .red-link {
+    font-size: 26px;
+  }
+  .container-code {
+    display: none;
+  }
+  .container-header {
+    text-align: center !important;
+  }
+  th:first-child {
+    display: none;
+  }
+}
