@@ -1,2 +1,3 @@
 /.idea
 /protected/config/config.db.php
+/protected/runtime/cache

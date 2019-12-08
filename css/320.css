@@ -261,4 +261,9 @@
     margin-bottom: 120px;
   }
 
+  .impl-uhod .w30:first-child,
+  .impl-uhod .w30:nth-child(2) {
+    margin-bottom: 80px;
+  }
+
 }
