@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-12-08 20:49:34
+/* Smarty version 3.1.32, created on 2019-12-08 21:05:31
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\themes\base\smarty\components\modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ded37ae4d8f02_65248722',
+  'unifunc' => 'content_5ded3b6b50d3c6_79022177',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ded37ae4d8f02_65248722 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ded3b6b50d3c6_79022177 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal modal-first-touch wow fadeIn" data-wow-delay=".5s">
 	<a href="#" class="modal-close"></a>
 	<form id="form-modal" method="post" action='send.php'>

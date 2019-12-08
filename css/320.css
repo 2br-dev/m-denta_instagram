@@ -232,8 +232,25 @@
   }
 
   .container-flex-2 img {
-    margin: 0;
+    margin: 0 0 15px 0;
     min-width: 100%;
+  }
+
+  .container-flex-2-info__text {
+    padding-left: 0;
+  }
+
+  .implant-block .w30 img {
+    display: none;
+  }
+
+  .implant-block .w70 {
+    padding-left: 0;
+    width: 100%;
+  }
+
+  h1, h2, h3, h4 {
+    line-height: 1.1;
   }
 
 }

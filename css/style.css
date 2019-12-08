@@ -643,7 +643,7 @@ img {
     display: flex;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content: center;
     overflow-x: hidden;
     -webkit-box-shadow: 0 -5px 5px -5px rgba(0,0,0,0.5);
     -moz-box-shadow: 0 -5px 5px -5px rgba(0,0,0,0.5);
