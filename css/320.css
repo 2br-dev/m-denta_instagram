@@ -225,4 +225,15 @@
     right: 30px;
   }
 
+  .container-flex-2 {
+    width: 100%;
+    flex-direction: column;
+    margin: 0;
+  }
+
+  .container-flex-2 img {
+    margin: 0;
+    min-width: 100%;
+  }
+
 }
