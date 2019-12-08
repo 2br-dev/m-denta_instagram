@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-10-12 17:28:50
+/* Smarty version 3.1.32, created on 2019-11-25 11:55:11
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\modules\lecheniepageprice\tpl\block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5da1e3222cd221_44153867',
+  'unifunc' => 'content_5ddb96efd084d3_76978860',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5da1e3222cd221_44153867 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ddb96efd084d3_76978860 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['price']->value) {?>
     <div class="price-block">
         <h2>Прайс</h2>

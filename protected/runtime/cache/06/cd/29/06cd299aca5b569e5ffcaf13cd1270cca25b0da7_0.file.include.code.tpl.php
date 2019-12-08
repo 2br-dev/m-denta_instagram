@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-10-29 11:43:30
+/* Smarty version 3.1.32, created on 2019-11-25 11:53:35
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\app\core\admin-template\system\include.code.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5db7fbb2bb00c4_22914265',
+  'unifunc' => 'content_5ddb968f57a2f5_77972155',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5db7fbb2bb00c4_22914265 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ddb968f57a2f5_77972155 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="clipsmodal" style="display: none;">
     <section>
         <ul class="redactor_clips_box">

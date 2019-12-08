@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-10-12 14:35:46
+/* Smarty version 3.1.32, created on 2019-11-25 11:55:42
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\modules\ourworks\tpl\list.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5da1ba921b7c03_33483197',
+  'unifunc' => 'content_5ddb970e35fca2_77078289',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5da1ba921b7c03_33483197 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ddb970e35fca2_77078289 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="ourworks">
   <h1>Наши работы</h1>
     <?php if ($_smarty_tpl->tpl_vars['ourworks']->value) {?>

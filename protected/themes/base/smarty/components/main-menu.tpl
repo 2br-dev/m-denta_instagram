@@ -7,14 +7,14 @@
         </a>
         <div class="main-menu">
             <ul>
-                <li><a href="">Лечение зубов</a></li>
-                <li><a href="">Имплантация зубов</a></li>
-                <li><a href="">Протезирование зубов</a></li>
-                <li><a href="">Альбом улыбок</a></li>
+                <li><a href="/lechenie-zubov">Лечение зубов</a></li>
+                <li><a href="/implantaciya-zubov">Имплантация зубов</a></li>
+                <li><a href="/protezirovanie-zubov">Протезирование зубов</a></li>
+                <li><a href="/albom-ulybok">Альбом улыбок</a></li>
             </ul>
             <ul>
-                <li><a href="">О клинике</a></li>
-                <li><a href="">Наши работы</a></li>
+                <li><a href=/about">О клинике</a></li>
+                <li><a href="/nashi-raboty">Наши работы</a></li>
             </ul>
         </div>
         <div class="main-menu__footer">

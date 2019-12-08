@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-10-29 11:43:26
+/* Smarty version 3.1.32, created on 2019-11-25 11:53:00
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\app\core\admin-template\view\structure\_fields_og.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5db7fbaeca8b92_01476438',
+  'unifunc' => 'content_5ddb966cb27bb2_42263237',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,6 +20,6 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5db7fbaeca8b92_01476438 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ddb966cb27bb2_42263237 (Smarty_Internal_Template $_smarty_tpl) {
 }
 }

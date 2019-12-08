@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-11-25 11:04:11
+/* Smarty version 3.1.32, created on 2019-12-08 20:21:44
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\themes\base\smarty\components\main-menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ddb8afbd510d8_02860972',
+  'unifunc' => 'content_5ded3128152344_59858054',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9fb2df391b9ade376f0a48985d21e9b866a5d036' => 
     array (
       0 => 'G:\\OpenServer\\OSPanel\\domains\\mdenta.local\\protected\\themes\\base\\smarty\\components\\main-menu.tpl',
-      1 => 1571226947,
+      1 => 1574671634,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ddb8afbd510d8_02860972 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ded3128152344_59858054 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="main-menu__wrapper">
     <div class="main_content">
         <a class="main-menu__close">
@@ -30,14 +30,14 @@ function content_5ddb8afbd510d8_02860972 (Smarty_Internal_Template $_smarty_tpl)
         </a>
         <div class="main-menu">
             <ul>
-                <li><a href="">Лечение зубов</a></li>
-                <li><a href="">Имплантация зубов</a></li>
-                <li><a href="">Протезирование зубов</a></li>
-                <li><a href="">Альбом улыбок</a></li>
+                <li><a href="/lechenie-zubov">Лечение зубов</a></li>
+                <li><a href="/implantaciya-zubov">Имплантация зубов</a></li>
+                <li><a href="/protezirovanie-zubov">Протезирование зубов</a></li>
+                <li><a href="/albom-ulybok">Альбом улыбок</a></li>
             </ul>
             <ul>
-                <li><a href="">О клинике</a></li>
-                <li><a href="">Наши работы</a></li>
+                <li><a href=/about">О клинике</a></li>
+                <li><a href="/nashi-raboty">Наши работы</a></li>
             </ul>
         </div>
         <div class="main-menu__footer">

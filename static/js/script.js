@@ -1,4 +1,7 @@
  $(document).ready(function() {
+
+
+
    	// анимации для десктоп версий
    	if($(window).width() >= 1024){
   		new WOW().init();

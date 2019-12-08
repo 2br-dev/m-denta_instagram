@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-11-25 11:04:11
+/* Smarty version 3.1.32, created on 2019-11-25 11:55:28
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\modules\smile\tpl\block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ddb8afb780670_77449652',
+  'unifunc' => 'content_5ddb9700572355_06980316',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ddb8afb780670_77449652 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ddb9700572355_06980316 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['smile']->value) {?>
     <div class="smile__wrapper">
         <h1>Открытые улыбки</h1>

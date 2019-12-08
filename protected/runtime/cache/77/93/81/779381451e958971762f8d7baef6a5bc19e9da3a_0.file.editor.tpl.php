@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-10-29 11:43:27
+/* Smarty version 3.1.32, created on 2019-11-25 11:53:01
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\app\core\admin-template\system\editor.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5db7fbaf673864_98802909',
+  'unifunc' => 'content_5ddb966da2b415_76956292',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5db7fbaf673864_98802909 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ddb966da2b415_76956292 (Smarty_Internal_Template $_smarty_tpl) {
 if (!isset($_smarty_tpl->tpl_vars['editor_type']->value)) {
 $_smarty_tpl->_assignInScope('editor_type', "codemirror");
 }

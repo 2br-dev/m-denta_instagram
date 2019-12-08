@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-11-25 10:53:25
+/* Smarty version 3.1.32, created on 2019-11-25 11:52:43
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\modules\implantaciyapageprice\tpl\block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ddb887597e233_34608325',
+  'unifunc' => 'content_5ddb965bf3fbe9_37327019',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ddb887597e233_34608325 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ddb965bf3fbe9_37327019 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['price']->value) {?>
     <div class="price-block" style="margin-bottom: 45px;">
         <h2>Стоимтость имплантации зубов</h2>

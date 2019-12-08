@@ -368,6 +368,7 @@ img {
     height: 100%;
     top: 0;
     left: 0;
+    z-index: 2;
 }
 
 .services-mainPage__item:hover {
@@ -1022,7 +1023,7 @@ input.input__error {
 }
 
 .works__item {
-    margin-bottom: 0;
+    margin-bottom: 40px;
 }
 
 .works-item__img {
