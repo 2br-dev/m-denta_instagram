@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-12-08 21:05:31
+/* Smarty version 3.1.32, created on 2019-12-08 21:12:04
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\themes\base\smarty\components\footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ded3b6b6bf5a0_04786635',
+  'unifunc' => 'content_5ded3cf4e13191_74090500',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./footer-contacts.tpl' => 1,
   ),
 ),false)) {
-function content_5ded3b6b6bf5a0_04786635 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ded3cf4e13191_74090500 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <footer class="footer">
         <div class="main_content">

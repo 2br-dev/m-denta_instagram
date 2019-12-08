@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2019-12-08 21:05:31
+/* Smarty version 3.1.32, created on 2019-12-08 21:12:04
   from 'G:\OpenServer\OSPanel\domains\mdenta.local\protected\themes\base\smarty\components\main-menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5ded3b6b666209_73921160',
+  'unifunc' => 'content_5ded3cf4d96698_25340765',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ded3b6b666209_73921160 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ded3cf4d96698_25340765 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="main-menu__wrapper">
     <div class="main_content">
         <a class="main-menu__close">
